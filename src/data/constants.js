@@ -11,10 +11,10 @@ export const Bio = {
   github: "https://github.com/276ashok",
   resume:
     "https://drive.google.com/file/d/1SlyWK_xAu6p0QBH-8aglgCsp55XkrSjA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/ashok276/",
+  twitter: "https://x.com/276ashok",
+  insta: "https://www.instagram.com/dark.devil.ak/",
+  facebook: "https://www.facebook.com/1053492ashok",
 };
 
 export const skills = [
